@@ -1,2 +1,2 @@
 # turDonusumleri
- Başlangıç Seviyesi .Net Core Patikası tr dönüşümleri
+ Başlangıç Seviyesi .Net Core Patikası tür dönüşümleri
